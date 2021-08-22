@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gccpsben
-- 👀 I’m interested in webdev and .net
+- Started coding in primary 5, and is looking forward to learning more technologies!
+- 👀 I’m interested in webdev and .net (3d rendering suits too)
 - 🌱 I’m currently learning VueJS and Webpack
 
 <!---
