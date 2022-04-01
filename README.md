@@ -1,5 +1,5 @@
 - Started programming in primary 5, and is looking forward to learning more technologies!
-- 👀 I’m interested in webdev and .net (3d rendering suits too)
+- 👀 I’m interested in webdev, finance-related stuffs and .NET (3d rendering suits too)
 - 🌱 I’m currently learning VueJS and Webpack
 - Sometimes I also develop plugins and tools for the rhythm game osu! (https://osu.ppy.sh/users/3206546)
 
