@@ -9,6 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,less,cs,nodejs,py)](https://skillicons.dev)
-[![Web Frameworks](https://skillicons.dev/icons?i=vue,react,py,express,pinia)](https://skillicons.dev)
+
+[![Web Frameworks](https://skillicons.dev/icons?i=vue,react,express,pinia)](https://skillicons.dev)
+
 [![Databases](https://skillicons.dev/icons?i=mongo,sqlite)](https://skillicons.dev)
-[![OS](https://skillicons.dev/icons?i=debian)](https://skillicons.dev)
+
+[![OS](https://skillicons.dev/icons?i=debian,windows)](https://skillicons.dev)
