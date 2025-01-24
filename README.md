@@ -8,10 +8,14 @@ gccpsben/gccpsben is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,less,cs,nodejs,py)](https://skillicons.dev)
+<!--- #### Languages / Runtimes --->
+[![Languages or Runtimes](https://skillicons.dev/icons?i=ts,js,rust,html,css,less,cs,nodejs,py,deno)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=vue,react,express,pinia,net,electron,mui)](https://skillicons.dev)
+<!--- #### Frameworks / Lib --->
+[![Frameworks](https://skillicons.dev/icons?i=vue,react,express,pinia,net,electron,mui,rocket)](https://skillicons.dev)
 
-[![Databases](https://skillicons.dev/icons?i=mongo,sqlite)](https://skillicons.dev)
-
+<!--- #### OS --->
 [![OS](https://skillicons.dev/icons?i=debian,windows)](https://skillicons.dev)
+
+<!--- #### Others --->
+[![Others](https://skillicons.dev/icons?i=mongo,sqlite,npm,git,anaconda,vite)](https://skillicons.dev)
