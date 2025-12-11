@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![Frameworks](https://skillicons.dev/icons?i=vue,react,express,pinia,net,electron,mui,rocket)](https://skillicons.dev)
 
 <!--- #### OS --->
-[![OS](https://skillicons.dev/icons?i=debian,windows)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=arch,windows)](https://skillicons.dev)
 
 <!--- #### Others --->
 [![Others](https://skillicons.dev/icons?i=mongo,sqlite,npm,git,anaconda,vite)](https://skillicons.dev)
